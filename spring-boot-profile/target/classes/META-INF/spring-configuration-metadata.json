@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.demo.config.ServerProperties",
+      "name": "server",
+      "type": "com.example.demo.config.ServerProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.example.demo.config.ServerProperties",
+      "name": "server.cluster",
+      "type": "java.util.List<com.example.demo.config.ServerProperties.Cluster>"
+    },
+    {
+      "sourceType": "com.example.demo.config.ServerProperties",
+      "name": "server.email",
+      "type": "java.lang.String"
+    }
+  ]
+}
